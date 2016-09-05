@@ -1,9 +1,9 @@
 # Site settings
-title: EdoSec | 江戸sec
+title: EdoSec | 江戸sec  (Formely Page)
 description: > # this means to ignore newlines until "baseurl:"
-  Tokyo Security Professional Meetup | セキュリティの輪を広げよう
+  Tokyo Security Professional Meetup | セキュリティの輪を広げよう [Our New Page: edosec.tokyo]
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://edos.ec"
+url: "http://edos.ec > http://edosec.tokyo"
 twitter_username:    Edosec
 facebook_username:   edosectokyo
 github_username:     lincolnlogs
